@@ -21,4 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rajaXcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![GitHub Snake](https://raw.githubusercontent.com/rajaXcodes/rajaXcodes/output/snake.svg)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
