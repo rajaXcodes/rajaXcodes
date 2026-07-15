@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Raja<br><br>🎓 3rd-year student at Delhi Technological University (DTU)<br>💻 Full-Stack Developer | AI Enthusiast | Tech Explorer | Smart Contract Developer<br><br>🚀 About Me<br><br>💡 I love building things that solve real-world problems<br>🧠 Always learning, experimenting, and creating something new<br>⚙️ Passionate about Web Development, Blockchain, and AI<br>🔍 Constantly exploring innovative ideas & turning them into working projects<br>📚 I believe in learning by doing — every project teaches me something new<br>🌱 Currently diving deeper into Next.js, Web3, and ML integration<br>🎯 Goal: To build tools that make life simpler and smarter
+👋 Hey there! I'm Raja<br><br>🎓 Final year student at Delhi Technological University (DTU)<br>💻 Full-Stack Developer | AI Enthusiast | Tech Explorer | Smart Contract Developer<br><br>🚀 About Me<br><br>💡 I love building things that solve real-world problems<br>🧠 Always learning, experimenting, and creating something new<br>⚙️ Passionate about Web Development, Blockchain, and AI<br>🔍 Constantly exploring innovative ideas & turning them into working projects<br>📚 I believe in learning by doing — every project teaches me something new<br>🌱 Currently diving deeper into Next.js, Web3, and ML integration<br>🎯 Goal: To build tools that make life simpler and smarter
 
 
 ## 🌐 Socials:
